@@ -1,4 +1,4 @@
-#define the correct password.
+ #define the correct password.
 password=12345
 
 #set the maximum number of attempts.
